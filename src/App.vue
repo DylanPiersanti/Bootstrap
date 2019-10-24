@@ -13,6 +13,19 @@
         </b-collapse>
       </div>
     </b-navbar>
+  <br/>
+    <div class="mx-5">
+      <b-jumbotron header="Développeur web" lead="">
+        <p>Le développeur web / la développeuse réalise 
+          l’ensemble des fonctionnalités techniques d’un 
+          site ou d'une application web. 
+          Technicien ou ingénieur, il ou elle conçoit des 
+          sites sur mesure ou adapte des solutions techniques 
+          existantes en fonction du projet et de la demande du 
+          client.</p>
+        <b-button variant="primary" href="#">en savoir plus</b-button>
+      </b-jumbotron>
+    </div>
 
     <footer class="py-5 bg-dark fixed-bottom">
       <div class="container">
